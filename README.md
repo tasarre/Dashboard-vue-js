@@ -1,5 +1,8 @@
 # my-dashboard
 
+<img src="public/screenshot_1.png">
+<img src="public/screenshot_2.png">
+
 ## Project setup
 ```
 yarn install
